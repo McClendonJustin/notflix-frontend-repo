@@ -1,0 +1,99 @@
+.modal {
+  width: min(380px, calc(100vw - 32px));
+  max-height: calc(100vh - 32px);
+  margin: auto;
+  padding: 0;
+  border: 0;
+  border-radius: 16px;
+  background: var(--surface);
+  color: var(--text);
+  overflow: auto;
+}
+
+.modal--wide {
+  width: min(720px, calc(100vw - 32px));
+}
+
+.modal[open] {
+  animation: modal-in 180ms var(--ease-out);
+}
+
+.modal::backdrop {
+  background: rgb(0 0 0 / 0.7);
+}
+
+.modal[open]::backdrop {
+  animation: fade-in 180ms ease-out;
+}
+
+@keyframes modal-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px) scale(0.98);
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+}
+
+.modal__body {
+  display: grid;
+  gap: 1rem;
+  padding: 1rem 1.25rem 1.25rem;
+}
+
+.modal__head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.modal__head h2 {
+  font-size: 1.25rem;
+  letter-spacing: -0.02em;
+}
+
+.modal--wide .modal__head h2 {
+  font-size: 1.5rem;
+}
+
+.modal__close {
+  display: grid;
+  place-items: center;
+  flex: none;
+  width: 44px;
+  height: 44px;
+  margin-right: -10px;
+  border: 0;
+  border-radius: 50%;
+  background: transparent;
+  transition: background-color var(--t-fast) var(--ease-out);
+}
+
+.modal__close:hover {
+  background: var(--surface-2);
+}
+
+.form {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.form__switch {
+  font-size: 0.9375rem;
+  color: var(--text-soft);
+}
+
+.form__switch button {
+  padding: 0;
+  border: 0;
+  background: none;
+  font-weight: 700;
+  color: var(--leaf);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}

@@ -1,0 +1,482 @@
+[
+  {
+    "title": "Invasion of the Body Snatchers",
+    "type": "Movie",
+    "genre": "Sci-Fi",
+    "year": 1956,
+    "runtime": "1h 20m",
+    "description": "A small-town doctor discovers that the local population is being secretly replaced by emotionless alien duplicates grown from plant pods. As panic spreads, he tries to escape and warn the rest of the world.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/8BrMQmgwGzIHSyBjCDOLOdi79fJ.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/qcLHMO01oECjbL8MUPRXsLOMFhx.jpg"
+  },
+  {
+    "title": "The Thing from Another World",
+    "type": "Movie",
+    "genre": "Sci-Fi",
+    "year": 1951,
+    "runtime": "1h 27m",
+    "description": "Scientists and American Air Force crew members at a remote Arctic outpost battle a hostile, shapeshifting alien creature embedded in ice. As the entity awakens, the crew must rely on their ingenuity to destroy it before it reaches civilization.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/rm2w8dEhOGDuckB6i0Spz9lTzpR.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/30aHDHSHGX4HEeKlrgCwhTU72QP.jpg"
+  },
+  {
+    "title": "Metropolis",
+    "type": "Movie",
+    "genre": "Sci-Fi",
+    "year": 1927,
+    "runtime": "2h 33m",
+    "description": "In a futuristic city sharply divided between the working class and the wealthy elite, the son of the city's ruler falls in love with a working-class prophet. Their connection threatens to disrupt the rigid industrial social order.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/kr9wXRN23zLuWJIelahas1mtnYj.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/eeMoFKxjjiCi6iep2GEZtSAMYIr.jpg"
+  },
+  {
+    "title": "Plan 9 from Outer Space",
+    "type": "Movie",
+    "genre": "Sci-Fi",
+    "year": 1957,
+    "runtime": "1h 19m",
+    "description": "Extraterrestrials enact a plan to revive Earth's dead in order to prevent humanity from creating a universe-destroying bomb. A small group of citizens and military personnel attempt to stop the undead uprising.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/bmicZi7PvlnZ9rZqp6QXN2Db0pT.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/9pHCAT1ScILdkhY8ErfOma8W4kB.jpg"
+  },
+  {
+    "title": "Star Trek: The Original Series",
+    "type": "TV Show",
+    "genre": "Sci-Fi",
+    "year": 1966,
+    "runtime": "3 Seasons",
+    "description": "The crew of the starship USS Enterprise explores deep space and encounters new alien civilizations. Captain James T. Kirk leads his crew on diplomatically and technologically challenging missions across the galaxy.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/9byecLwsbbkAqGdxcKuuTI5kEzZ.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/ywK4VrR7vL56mDGXDLMtFypwqA8.jpg"
+  },
+  {
+    "title": "The Twilight Zone",
+    "type": "TV Show",
+    "genre": "Sci-Fi",
+    "year": 1959,
+    "runtime": "5 Seasons",
+    "description": "An anthology series presenting standalone tales of science fiction, mystery, and the supernatural. Each episode explores moral dilemmas and psychological twists with an iconic opening host introduction.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/7uY4pCOxbEdv4M8jTE4uMPVoSIW.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/zAgcM7zwWAVOIT9dMMzQx7e4vdX.jpg"
+  },
+  {
+    "title": "Stranger Things",
+    "type": "TV Show",
+    "genre": "Sci-Fi",
+    "year": 2016,
+    "runtime": "4 Seasons",
+    "description": "When a young boy vanishes in a small Indiana town, his friends and family unearth a mystery involving secret experiments and terrifying supernatural forces. They form an unlikely team with a telekinetic girl to combat threats from another dimension.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/9P4IIMYY3HifqeruZq0ZZ9g7YUi.jpg"
+  },
+  {
+    "title": "Doctor Who",
+    "type": "TV Show",
+    "genre": "Sci-Fi",
+    "year": 1963,
+    "runtime": "26 Seasons",
+    "description": "An eccentric alien time-traveler known as the Doctor explores space and time in a ship disguised as a blue police box. Alongside companions, the Doctor fights cosmic threats and rights wrongs across dimensions.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/8VWgyQjExeMgeg6Qzv6agduMU1A.jpg"
+  },
+  {
+    "title": "Psycho",
+    "type": "Movie",
+    "genre": "Horror",
+    "year": 1960,
+    "runtime": "1h 49m",
+    "description": "A secretary on the run checks into a secluded motel run by a repressed young man under the dominance of his mother. Suspense builds as terrifying secrets about the motel and its owner come to light.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/mufF1aYvwdpKerhq5R1YrVcbJLY.jpg"
+  },
+  {
+    "title": "Night of the Living Dead",
+    "type": "Movie",
+    "genre": "Horror",
+    "year": 1968,
+    "runtime": "1h 36m",
+    "description": "A ragtag group of strangers barricades themselves inside a rural farmhouse to survive a sudden swarm of flesh-eating ghouls. Tensions flare inside as the horde outside continues to grow.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/rb2NWyb008u1EcKCOyXs2Nmj0ra.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/5KtmBSqFtHY3I9t8lgH27Mc0bqY.jpg"
+  },
+  {
+    "title": "The Bride of Frankenstein",
+    "type": "Movie",
+    "genre": "Horror",
+    "year": 1935,
+    "runtime": "1h 15m",
+    "description": "Dr. Frankenstein is coerced by an even more deranged scientist to construct a mate for his original monster. The creature seeks acceptance and companionship while facing rejection from human society.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/5241zUwe7rC17MNc2QpCBKKdp1N.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/hrED8MSOn4xJP9Cpk7WomUcFKGI.jpg"
+  },
+  {
+    "title": "The Invisible Man",
+    "type": "Movie",
+    "genre": "Horror",
+    "year": 1933,
+    "runtime": "1h 11m",
+    "description": "A scientist discovers a potion that grants him total invisibility, but the chemical formula slowly drives him insane. He embarks on a terror spree while colleagues try to track him down.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/ejoVwGmEbTBrf78tqnTSO5g8iVz.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/uGXid3UHMzoL2hyNfWSPDWkqbKC.jpg"
+  },
+  {
+    "title": "The Haunting of Hill House",
+    "type": "TV Show",
+    "genre": "Horror",
+    "year": 2018,
+    "runtime": "1 Season",
+    "description": "Flashing between past and present, a fractured family confronts haunting memories of their old home and the terrifying events that drove them away. Dark secrets emerge as they gather following a tragedy.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/nWPZb800NCGiDPNGsKCfY0w44Z2.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/dQF17lG4OZ3pC4QD9iNjaMS96gO.jpg"
+  },
+  {
+    "title": "American Horror Story",
+    "type": "TV Show",
+    "genre": "Horror",
+    "year": 2011,
+    "runtime": "12 Seasons",
+    "description": "An anthology horror series where every season focuses on a distinct storyline, setting, and set of creepy characters. Themes range from haunted houses and witch coven houses to asylum hospitals and sinister freak shows.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg"
+  },
+  {
+    "title": "Tales from the Crypt",
+    "type": "TV Show",
+    "genre": "Horror",
+    "year": 1989,
+    "runtime": "7 Seasons",
+    "description": "Hosted by the undead Cryptkeeper, this anthology delivers macabre EC Comics-style stories filled with dark humor, irony, and gory twists.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/owrglhGpuB5eJVT3nED6U40NzmM.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/6uMA6EAiwcsCqQJwWgYwtORvE0v.jpg"
+  },
+  {
+    "title": "The Walking Dead",
+    "type": "TV Show",
+    "genre": "Horror",
+    "year": 2010,
+    "runtime": "11 Seasons",
+    "description": "Sheriff Deputy Rick Grimes awakens from a coma to find the world overrun by flesh-eating zombies. He leads a group of survivors as they navigate the collapsed post-apocalyptic world where human threats are as deadly as the dead.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/ng3cMtxYKt1OSQYqFlnKWnVsqNO.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/rAOjnEFTuNysY7bot8zonhImGMh.jpg"
+  },
+  {
+    "title": "The General",
+    "type": "Movie",
+    "genre": "Comedy",
+    "year": 1926,
+    "runtime": "1h 18m",
+    "description": "When Union spies steal an engineer's beloved locomotive, he embarks on a daring hero's chase through enemy lines during the American Civil War. Packed with iconic silent slapstick stunts and physical comedy.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/4NmV1Wei4LxT2lpjViCAScgCZLq.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/mzox4HbcV9W42MH2dB1QsdDVGo3.jpg"
+  },
+  {
+    "title": "His Girl Friday",
+    "type": "Movie",
+    "genre": "Comedy",
+    "year": 1940,
+    "runtime": "1h 32m",
+    "description": "A newspaper editor tries to keep his top investigative reporter and ex-wife from remarrying by roping her into covering a major crime story. Fast-paced dialogue and comedic banter ensue.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/lu86Y9zTPH3neCiUzLzHCEFHf7f.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/ihoQaiMFAz4YCTAaSIsQjRknsNH.jpg"
+  },
+  {
+    "title": "Charade",
+    "type": "Movie",
+    "genre": "Comedy",
+    "year": 1963,
+    "runtime": "1h 53m",
+    "description": "A recent widow in Paris is pursued by multiple men claiming her late husband stole a fortune. A charming stranger steps in to assist her in a suspenseful romantic comedy full of twists.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/qqaPjC5FQidtKY65jbAKZPiOTaS.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/1Q1yTxHjadsLMf7yy9xABUH6zaT.jpg"
+  },
+  {
+    "title": "Steamboat Bill, Jr.",
+    "type": "Movie",
+    "genre": "Comedy",
+    "year": 1928,
+    "runtime": "1h 10m",
+    "description": "An awkward college graduate tries to impress his gruff riverboat captain father while falling for the daughter of a rival business owner. Famous for its jaw-dropping physical cyclone scene.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/zygJMsmXxeyDc1N67OCZc8xtq4I.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/kmZjw9hbo8ErovofQvPB21HRyRf.jpg"
+  },
+  {
+    "title": "The Office (US)",
+    "type": "TV Show",
+    "genre": "Comedy",
+    "year": 2005,
+    "runtime": "9 Seasons",
+    "description": "A mockumentary crew follows the daily workplace hijinks and quirky personalities of employees at the Scranton branch of Dunder Mifflin Paper Company.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/9vMzIrMIncPmtalcxh1MOrgcE6C.jpg"
+  },
+  {
+    "title": "Parks and Recreation",
+    "type": "TV Show",
+    "genre": "Comedy",
+    "year": 2009,
+    "runtime": "7 Seasons",
+    "description": "An overly enthusiastic mid-level bureaucrat in a small Indiana town attempts to beautify her community alongside her eccentric government co-workers.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/5IOj62y2Eb2ngyYmEn1IJ7bFhzH.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/v7FPlZuuwJZ6YwJggf3Jx5pZNAz.jpg"
+  },
+  {
+    "title": "Brooklyn Nine-Nine",
+    "type": "TV Show",
+    "genre": "Comedy",
+    "year": 2013,
+    "runtime": "8 Seasons",
+    "description": "An exceptionally talented but childish detective frequently clashes with his stern, rule-following police captain at Brooklyn's 99th Precinct.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/mpjlDzVjp7oyHUe2LaF9ltKe6f1.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/9AeiA1XtP5sel2tAf9LaGeUjhDb.jpg"
+  },
+  {
+    "title": "Schitt's Creek",
+    "type": "TV Show",
+    "genre": "Comedy",
+    "year": 2015,
+    "runtime": "6 Seasons",
+    "description": "A wealthy family suddenly loses their fortune and is forced to relocate to a tiny, run-down town they once bought as a joke.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/iRfSzrPS5VYWQv7KVSEg2BZZL6C.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/ftNmVV8LuNVmtB8mzoUTucozVKE.jpg"
+  },
+  {
+    "title": "Citizen Kane",
+    "type": "Movie",
+    "genre": "Drama",
+    "year": 1941,
+    "runtime": "1h 59m",
+    "description": "Following the death of a publishing tycoon, a news reporter endeavors to uncover the meaning behind his enigmatic last spoken word, \"Rosebud.\"",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/ruF3Lmd4A8MHbnEBE6lxPMbsHGL.jpg"
+  },
+  {
+    "title": "Casablanca",
+    "type": "Movie",
+    "genre": "Drama",
+    "year": 1942,
+    "runtime": "1h 42m",
+    "description": "A cynical American expatriate nightclub owner in WWII Morocco must choose between his love for a former flame and helping her resistance hero husband escape the Nazis.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/87wqeMeUeMRLjsE1IWNKJcPlpuC.jpg"
+  },
+  {
+    "title": "12 Angry Men",
+    "type": "Movie",
+    "genre": "Drama",
+    "year": 1957,
+    "runtime": "1h 36m",
+    "description": "A single dissenting juror in a murder trial forces his eleven peers to re-examine the evidence and confront their personal prejudices before passing a verdict.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/qqHQsStV6exghCM7zbObuYBiYxw.jpg"
+  },
+  {
+    "title": "Sunset Boulevard",
+    "type": "Movie",
+    "genre": "Drama",
+    "year": 1950,
+    "runtime": "1h 50m",
+    "description": "A struggling Hollywood screenwriter develops a toxic professional and romantic relationship with a faded silent-film star who dreams of making a comeback.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/zt8aQ6ksqK6p1AopC5zVTDS9pKT.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/p47ihFj4A7EpBjmPHdTj4ipyq1S.jpg"
+  },
+  {
+    "title": "Breaking Bad",
+    "type": "TV Show",
+    "genre": "Drama",
+    "year": 2008,
+    "runtime": "5 Seasons",
+    "description": "A high school chemistry teacher diagnosed with terminal cancer partners with a former student to manufacture methamphetamine to secure his family's financial future.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg"
+  },
+  {
+    "title": "Succession",
+    "type": "TV Show",
+    "genre": "Drama",
+    "year": 2018,
+    "runtime": "4 Seasons",
+    "description": "The aging patriarch of a massive global media empire sparks a ruthless, backstabbing power struggle among his four adult children vying for control.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/z0XiwdrCQ9yVIr4O0pxzaAYRxdW.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/d87JXX3DLkRJMfm5StCmmnmhHuX.jpg"
+  },
+  {
+    "title": "The Crown",
+    "type": "TV Show",
+    "genre": "Drama",
+    "year": 2016,
+    "runtime": "6 Seasons",
+    "description": "A dramatic chronicle tracking the political rivalries, personal romances, and historical events shaping the reign of Queen Elizabeth II across decades.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/1M876KPjulVwppEpldhdc8V4o68.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/8VXhcrl5z2I1zEU9X3pkkNrZlD.jpg"
+  },
+  {
+    "title": "Mad Men",
+    "type": "TV Show",
+    "genre": "Drama",
+    "year": 2007,
+    "runtime": "7 Seasons",
+    "description": "Set in 1960s New York City, a charismatic advertising executive navigates the high-pressure world of Madison Avenue while harboring personal secrets.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/5jOedTeytYzlJZwU66MFjmLHhHX.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/eYDTiJ88jfMJ5Vp3a0OAEihBzZX.jpg"
+  },
+  {
+    "title": "North by Northwest",
+    "type": "Movie",
+    "genre": "Action",
+    "year": 1959,
+    "runtime": "2h 16m",
+    "description": "A New York advertising executive is mistaken for a government agent and pursued across the country by a ruthless espionage organization and the police.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/OR8oloCZ3klJtB7Y0i8pSqWw5a.jpg"
+  },
+  {
+    "title": "Stagecoach",
+    "type": "Movie",
+    "genre": "Action",
+    "year": 1939,
+    "runtime": "1h 36m",
+    "description": "A heterogeneous group of strangers traveling aboard a stagecoach through dangerous territory faces personal conflicts and hostile threats along their journey.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/zgMnfnwWZ3nkx4t0bUDEKtW24O8.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/7SYNEG50fKODsTP6h9phYM3BueV.jpg"
+  },
+  {
+    "title": "The Mark of Zorro",
+    "type": "Movie",
+    "genre": "Action",
+    "year": 1920,
+    "runtime": "1h 47m",
+    "description": "A nobleman pretends to be a cowardly fop while secretly operating as a masked vigilante fighting oppressive governance in Spanish California.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/1N1gSSJs9ULgSWUM0W7zCXSR2QK.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/oNEY4mX0C9bO1KaVWYf9kTsq9oS.jpg"
+  },
+  {
+    "title": "Robin Hood",
+    "type": "Movie",
+    "genre": "Action",
+    "year": 1922,
+    "runtime": "2h 13m",
+    "description": "A nobleman takes up arms as an outlaw in Sherwood Forest to oppose a cruel usurper and protect the common people while the King is away on a crusade.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/baqMnZbAFPsfbaAOPRU1eJlCRdj.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/le215ALRyvc19s6jfrVjRO371YY.jpg"
+  },
+  {
+    "title": "Jack Ryan",
+    "type": "TV Show",
+    "genre": "Action",
+    "year": 2018,
+    "runtime": "4 Seasons",
+    "description": "A CIA analyst is pulled from his comfortable desk job into dangerous field operations after uncovering a series of suspicious financial transactions tied to terror networks.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/cO4py3L3q5GNPrA0qr1wVDrosK1.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/2y2TbzeKZHYqTN5gb4nBv9dKk1f.jpg"
+  },
+  {
+    "title": "Reacher",
+    "type": "TV Show",
+    "genre": "Action",
+    "year": 2022,
+    "runtime": "2 Seasons",
+    "description": "A veteran military police investigator living as a wanderer arrives in a small Georgia town and becomes embroiled in a deadly corporate conspiracy.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg"
+  },
+  {
+    "title": "The Mandalorian",
+    "type": "TV Show",
+    "genre": "Action",
+    "year": 2019,
+    "runtime": "3 Seasons",
+    "description": "A lone bounty hunter operating on the outer reaches of the galaxy takes on a job that turns into a mission to protect a vulnerable, force-sensitive child.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/9zcbqSxdsRMZWHYtyCd1nXPr2xq.jpg"
+  },
+  {
+    "title": "24",
+    "type": "TV Show",
+    "genre": "Action",
+    "year": 2001,
+    "runtime": "9 Seasons",
+    "description": "Counter Terrorist Unit agent Jack Bauer faces non-stop real-time threats to national security, working against a ticking clock over 24 hours per season.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/be6mDIMv7cg8duWkcYVnTB8rphO.jpg"
+  },
+  {
+    "title": "Nanook of the North",
+    "type": "Movie",
+    "genre": "Documentary",
+    "year": 1922,
+    "runtime": "1h 19m",
+    "description": "An early documentary capturing the daily struggles, hunting practices, and survival techniques of an Inuk family living in the harsh Arctic region.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/9WAboi1QbKu41WkyGxQVNpXwwxx.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/1Zgfk1raynguQf9Pvcmx9M5dyDN.jpg"
+  },
+  {
+    "title": "Man with a Movie Camera",
+    "type": "Movie",
+    "genre": "Documentary",
+    "year": 1929,
+    "runtime": "1h 8m",
+    "description": "An experimental silent documentary showcasing urban life in Soviet cities using innovative editing techniques, double exposures, and fast-motion shots.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/vJgAdgJWX54v0oXfIvhwjlZnmgn.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/xPuGtHPc1aADsfXds87noXVz2Hh.jpg"
+  },
+  {
+    "title": "With the Marines at Tarawa",
+    "type": "Movie",
+    "genre": "Documentary",
+    "year": 1944,
+    "runtime": "20m",
+    "description": "Authentic Color World War II documentary footage covering the intense beach landings and assault on the Pacific island of Tarawa.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/lxe4nBCQFRfEhn19a9VNpcXqhcC.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/l6od0iSA0qSqE7dClouW7VtalDd.jpg"
+  },
+  {
+    "title": "The Great White Silence",
+    "type": "Movie",
+    "genre": "Documentary",
+    "year": 1924,
+    "runtime": "1h 48m",
+    "description": "A restored record of Captain Robert Falcon Scott's heroic yet tragic 1910 expedition to reach the South Pole.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/zygS2mwsnnE6ILFg0Iekuy2zW2X.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/xcaoQG4vzXVqfGjgTVpmle7Cxko.jpg"
+  },
+  {
+    "title": "Planet Earth",
+    "type": "TV Show",
+    "genre": "Documentary",
+    "year": 2006,
+    "runtime": "1 Season",
+    "description": "A landmark nature documentary series exploring Earth's diverse habitats, incredible wildlife behavior, and remote corners in stunning high definition.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/bNcNxUtZ520d5de5s78onoiSiwQ.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/qmRUwosX4BsCj6QanpBYScLl3Sp.jpg"
+  },
+  {
+    "title": "The Last Dance",
+    "type": "TV Show",
+    "genre": "Documentary",
+    "year": 2020,
+    "runtime": "1 Season",
+    "description": "An in-depth sports docuseries centering on Michael Jordan and the 1990s Chicago Bulls dynasty, featuring unreleased footage from their 1997–98 championship run.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/oVf4xGGbDtwVHiKn8uTuSriY7PH.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/kY0h95L73t7a6ev6Rv0aHSCtN7y.jpg"
+  },
+  {
+    "title": "Cosmos: A Personal Voyage",
+    "type": "TV Show",
+    "genre": "Documentary",
+    "year": 1980,
+    "runtime": "1 Season",
+    "description": "Astronomer Carl Sagan takes viewers on a journey across the universe, exploring the origin of life, galaxies, science history, and humanity's place in the cosmos.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/nOGArjE0WMkzY2GW1taJm8l9gxD.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/hjJ5XDKP7XY2ADUuMdHM5NsC32s.jpg"
+  },
+  {
+    "title": "Making a Murderer",
+    "type": "TV Show",
+    "genre": "Documentary",
+    "year": 2015,
+    "runtime": "2 Seasons",
+    "description": "A true-crime documentary series filmed over 10 years following a man exonerated by DNA evidence who becomes the prime suspect in a new crime.",
+    "thumbnailUrl": "https://image.tmdb.org/t/p/w342/sy2nV3rCcJQaRK5M0NWvvTU7CBx.jpg",
+    "previewUrl": "https://image.tmdb.org/t/p/w780/i0bVPXHdvLQzE1Ld8dDwbCj1kOW.jpg"
+  }
+]

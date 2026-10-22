@@ -1,0 +1,31 @@
+.footer {
+  display: grid;
+  justify-items: center;
+  gap: 8px;
+  padding: 24px 16px 32px;
+  color: var(--text-soft);
+  font-size: 0.875rem;
+  text-align: center;
+}
+
+.footer p {
+  max-width: 60ch;
+  margin: 0;
+}
+
+.footer__logo {
+  display: inline-flex;
+  align-items: center;
+  min-height: 24px;
+}
+
+.footer__logo img {
+  display: block;
+  width: auto;
+  height: 16px;
+}
+
+.footer__credit a {
+  color: inherit;
+  text-decoration: underline;
+}

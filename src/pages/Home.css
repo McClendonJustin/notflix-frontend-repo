@@ -1,0 +1,96 @@
+.home {
+  position: relative;
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+.home__wall {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  align-content: start;
+  gap: 12px;
+  padding: 80px 16px 16px;
+  opacity: 0.45;
+}
+
+@media (min-width: 560px) {
+  .home__wall {
+    grid-template-columns: repeat(5, 1fr);
+  }
+}
+
+@media (min-width: 900px) {
+  .home__wall {
+    grid-template-columns: repeat(8, 1fr);
+  }
+}
+
+.home__bar {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 16px;
+  background: var(--bg);
+}
+
+.home__signin {
+  font-size: 1.125rem;
+}
+
+.home__main {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  display: grid;
+  place-items: center;
+  padding: 16px;
+  pointer-events: none;
+}
+
+.home__signup {
+  width: min(640px, 100%);
+  padding: 12px;
+  border-radius: 20px;
+  background: var(--bg);
+  pointer-events: auto;
+}
+
+.home__row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.home__email {
+  flex: 1 1 260px;
+  min-height: 56px;
+  font-size: 1.125rem;
+  text-align: center;
+}
+
+.home__row .btn {
+  flex: 1 1 120px;
+  min-height: 56px;
+  font-size: 1.125rem;
+}
+
+.home__error {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.home__footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+  padding: 12px 16px;
+  background: var(--bg);
+}
